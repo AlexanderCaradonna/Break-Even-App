@@ -6,7 +6,7 @@
 
 ## 🚀 Overview
 
-The **Break-Even App** helps you understand your business’s financial health by providing detailed insights into fixed costs, variable costs, sales volume, and pricing. This Streamlit app offers an intuitive interface to:
+The **Break-Even App** helps you understand your business’s financial health by providing detailed insights into fixed costs, variable costs, sales volume, and pricing. This Streamlit app helps to:
 
 - Calculate break-even units and revenue  
 - Analyze contribution margins and operating profit margins  
@@ -37,12 +37,12 @@ Whether you're a startup founder, small business owner, or financial analyst, th
 - Actionable insights and recommendations  
 
 ### 4. Forecast & Charts  
-- Interactive break-even chart  
-- Profitability comparison (Contribution Margin vs Operating Profit)  
+- Break-even chart  
+- Profitability metrics comparison (Contribution Margin vs Operating Profit)  
 - Sales and profit forecast with customizable growth inputs  
 
 ### 5. Sensitivity Analysis  
-- Explore impact of changes in cost, price, and sales on profitability (details coming soon)  
+- Explore impact of changes in price per unit, variable cost per unit, fixed cost, and sales volume
 
 ---
 
