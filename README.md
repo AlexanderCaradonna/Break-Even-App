@@ -61,4 +61,9 @@ Whether you're a startup founder, small business owner, or financial analyst, th
 
 ---
 
+## 🔹 Repository Structure
+
+- **break_even_app.py:** Python source code file containing the Streamlit application for break-even analysis and financial forecasting. 
+- **requirements.txt:** List of Python packages required to run the Streamlit application.  
+
 ##
