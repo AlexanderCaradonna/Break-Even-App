@@ -4,6 +4,11 @@
 
 ---
 
+### 🔗 Try the live app here:  
+[https://break-even-app-hq3gc2klhsdvzfbxydmfeq.streamlit.app/](https://break-even-app-hq3gc2klhsdvzfbxydmfeq.streamlit.app/)
+
+---
+
 ## 🚀 Overview
 
 The **Break-Even App** helps you understand your business’s financial health by providing detailed insights into fixed costs, variable costs, sales volume, and pricing. This Streamlit app helps to:
