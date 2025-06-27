@@ -5,7 +5,7 @@
 ---
 
 ### 🔗 Try the live app here:  
-   (http://18.216.190.160:8501/)
+   <small> (http://18.216.190.160:8501/)   </small>
 ---
 
 ## 🚀 Overview
