@@ -5,7 +5,7 @@
 ---
 
 ### 🔗 Try the live app here:  
-[https://break-even-app-hq3gc2klhsdvzfbxydmfeq.streamlit.app/](https://break-even-app-hq3gc2klhsdvzfbxydmfeq.streamlit.app/)
+[https://break-even-app-hq3gc2klhsdvzfbxydmfeq.streamlit.app/](http://18.216.190.160:8501/)
 
 ---
 
@@ -54,7 +54,7 @@ Whether you're a startup founder, small business owner, or financial analyst, th
 ## 🎯 How to Use
 
 1. Access the live app at:  
-   [https://break-even-app-hq3gc2klhsdvzfbxydmfeq.streamlit.app/](https://break-even-app-hq3gc2klhsdvzfbxydmfeq.streamlit.app/)  
+   [https://break-even-app-hq3gc2klhsdvzfbxydmfeq.streamlit.app/](http://18.216.190.160:8501/)  
 2. Fill out your business parameters under **Business Inputs**.  
 3. Navigate through tabs for detailed metrics, analysis, forecasts, and charts.  
 4. Leverage the insights to optimize pricing, costs, and sales strategies.  
