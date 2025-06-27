@@ -5,7 +5,7 @@
 ---
 
 ### 🔗 Try the live app here:  
-   <small> (http://18.216.190.160:8501/)   </small>
+   [https://break-even-app-hq3gc2klhsdvzfbxydmfeq.streamlit.app/](http://18.216.190.160:8501/)
 ---
 
 ## 🚀 Overview
