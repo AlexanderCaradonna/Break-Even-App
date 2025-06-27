@@ -6,7 +6,7 @@
 
 ### 🔗 Try the live app here:  
 
-   <small>[Break Even App](http://18.216.190.160:8501/)</small>
+   '[Break Even App](http://18.216.190.160:8501/)'
 ---
 
 ## 🚀 Overview
